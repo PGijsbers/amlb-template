@@ -1,0 +1,7 @@
+---
+
+ExplainableBoostingMachine:
+  module: custom.interpretml
+  version: stable
+  params:
+    foo: bar

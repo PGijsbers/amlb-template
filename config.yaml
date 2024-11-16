@@ -1,0 +1,3 @@
+frameworks:
+  definition_file:
+    - '{user}/frameworks.yaml'
